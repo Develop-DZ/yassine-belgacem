@@ -1,0 +1,1573 @@
+
+
+/*============================================================================  @@@ MEDIA 1 @@@  ============================================================================ */
+@media (min-width:1020px) and (max-width:1115px) {
+
+  
+    .logo {
+        width: 55px;
+        height: 55px;
+    }
+
+    header {
+        margin-left: 2%;
+    }
+
+  
+    /*================================ Container 1  ================================ */
+    .container1 {
+        left: 25px;
+        width: 48%;
+    }
+
+    .container1 .p1 {
+        font-size: 50px;
+    }
+
+    .point {
+        font-size: 60px;
+    }
+
+
+    /*================================ Container 5  ================================ */
+    .container5 {
+        width: 470px;
+        height: 480px;
+        margin-top: -380px;
+    }
+
+    .container5 img {
+        width: 250px;
+        height: 250px;
+
+    }
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 50%;
+    }
+
+    .sahm {
+        width: 90px;
+        height: 110px;
+         margin-left: 1%;
+    }
+
+    .container2 .p2 {
+        font-size: 36px;
+    }
+
+    .container2 .p3 {
+        font-size: 29px;
+        margin-left: 28%;
+    }
+
+    /*================================ Container 4  ================================ */
+
+    .container4 {
+        position: absolute;
+        width: 50%;
+        margin-left: 20px;
+    }
+
+    .s1 {
+        gap: 5px;
+        width: 70%;
+    }
+
+    .text .p4 {
+        font-size: 11px;
+    }
+
+    .comander {
+        margin-left:0%;
+        width: 100%;
+        height: 38px;
+        font-size: 13px;
+        border-radius: 12px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 2 @@@  ============================================================================ */
+
+
+@media (min-width:970px) and (max-width:1019.99px) {
+    
+   
+    .logo {
+        width: 55px;
+        height: 55px;
+    }
+
+    header {
+
+        margin-left: 2%;
+    }
+
+ /* footer{
+
+        margin-top: -350px;
+    } */
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        left: 25px;
+        width: 45%;
+
+    }
+
+    .container1 .p1 {
+        font-size: 45px;
+    }
+
+    .H3 {
+        margin-left: 16px;
+    }
+
+    .point {
+        font-size: 58px;
+        color: black;
+    }
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        width: 460px;
+        height: 470px;
+        margin-top: -360px;
+
+    }
+
+    .container5 img {
+        width: 240px;
+        height: 240px;
+
+    }
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 48%;
+    }
+
+    .sahm {
+        width: 90px;
+        height: 100px;
+        margin-left: 1%;
+    }
+
+    .container2 .p2 {
+        font-size: 33px;
+    }
+
+    .container2 .p3 {
+        font-size: 27px;
+        margin-left: 27%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+
+    .container4 {
+        position: absolute;
+        width: 50%;
+        margin-left: 25px;
+    }
+
+    .imge {
+        position: relative;
+        width: 32px;
+        height: 32px;
+    }
+
+    .line {
+
+        height: 27px;
+    }
+
+
+    .s1 {
+        gap: 5px;
+        width: 70%;
+    }
+
+
+   
+
+    .text .p4 {
+        font-size: 10px;
+    }
+
+    .comander {
+        margin-left: 0%;
+        width: 100%;
+        height: 38px;
+        font-size: 12.5px;
+        border-radius: 11px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 3 @@@  ============================================================================ */
+
+
+@media (min-width:900px) and (max-width:969.99px) {
+
+  
+    .container-logo{
+        font-size:35px;
+    }
+
+    .logo {
+        width: 45px;
+        height: 45px;
+    }
+
+    header {
+        margin-left: 2%;
+        height: 450px;
+    }
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        left: 25px;
+        width: 46%;
+
+    }
+
+    .container1 .p1 {
+        font-size: 43px;
+    }
+
+    .H3 {
+        margin-left: 16px;
+    }
+
+    .point  {
+        font-size: 56px;
+        color: black;
+    }
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        width: 440px;
+        height: 450px;
+        margin-top: -360px;
+    }
+
+    .container5 img {
+        width: 240px;
+        height: 240px;
+    }
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 48%;
+    }
+
+    .sahm {
+        width: 85px;
+        height: 95px;
+        margin-left: 1%;
+    }
+
+    .container2 .p2 {
+        font-size: 30px;
+    }
+
+    .container2 .p3 {
+        font-size: 22px;
+        margin-left: 35%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+
+    .container4 {
+        position: absolute;
+        width: 50%;
+        margin-left: 25px;
+    }
+
+    .imge {
+        position: relative;
+        width: 30px;
+        height: 30px;
+    }
+
+    .line {
+        height: 25px;
+    }
+
+    .s1 {
+        gap: 3px;
+    
+        width: 75%;
+    }
+
+
+   
+
+    .text .p4 {
+        font-size: 9.5px;
+    }
+
+    .comander {
+        margin-left: 0%;
+        width: 100%;
+        height: 38px;
+        font-size: 11px;
+        border-radius: 10px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 4 @@@  ============================================================================ */
+
+
+@media (min-width:830px) and (max-width:899.99px) {
+
+  .container-logo{
+        font-size:33px;
+    }
+
+    .logo {
+        width: 45px;
+        height: 45px;
+    }
+
+    header {
+        margin-left: 2%;
+        height: 400px;
+    }
+  
+    /*================================ Container 1  ================================ */
+    .container1 {
+        left: 25px;
+        width: 46%;
+
+    }
+
+    .container1 .p1 {
+        font-size: 40px;
+    }
+
+    .H3 {
+        margin-left: 16px;
+    }
+
+    .point  {
+        font-size: 53px;
+        
+    }
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        width: 400px;
+        height: 410px;
+        margin-top: -320px;
+    }
+
+    .container5 img {
+        width: 220px;
+        height: 220px;
+    }
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 48%;
+        height: 120px;
+    }
+
+    .sahm {
+        width: 80px;
+        height: 90px;
+        margin-left: 2%;
+        top: -36px;
+        
+    }
+
+    .container2 .p2 {
+        font-size: 28px;
+    }
+
+    .container2 .p3 {
+        font-size: 20px;
+        margin-left: 35%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+
+    .container4 {
+        position: absolute;
+        width: 50%;
+        margin-left: 25px;
+        gap: 8px;
+    }
+
+    .imge {
+        position: relative;
+        width: 28px;
+        height: 28px;
+    }
+
+    .line {
+        height: 23px;
+    }
+
+    .s1 {
+        gap: 3px;
+        width: 73%;
+    }
+
+
+
+    .text .p4{
+        font-size: 9px;
+    }
+
+    .comander {
+        margin-left: 0px;
+        width: 100%;
+        height: 36px;
+        font-size: 10.5px;
+        border-radius: 9px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 5 @@@  ============================================================================ */
+
+
+@media (min-width:780px) and (max-width:829.99px) {
+
+
+    .container-logo{
+        font-size:33px;
+    }
+    .logo {
+        width: 45px;
+        height: 45px;
+    }
+
+    header {
+        margin-left: 3px;
+        height:400px;
+    }
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        left: 25px;
+        width: 46%;
+
+    }
+
+    .container1 .p1 {
+        font-size: 37px;
+    }
+
+    .H3{
+        margin-left: 16px;
+    }
+
+     .point{
+        font-size: 50px;
+    }
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        width: 385px;
+        height: 395px;
+        margin-top: -300px;
+    }
+
+    .container5 img {
+        width: 210px;
+        height: 210px;
+    }
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 48%;
+        height: 120px;
+    }
+
+
+
+    .sahm {
+        width: 75px;
+        height: 85px;
+        margin-left: 2%;
+        top: -35px;
+    }
+
+
+
+    .container2 .p2 {
+        font-size: 27px;
+    }
+
+    .container2 .p3 {
+        font-size: 19px;
+        margin-left: 35%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+
+    .container4 {
+        position: absolute;
+        width: 49%;
+        margin-left: 25px;
+        gap: 5px;
+    }
+
+    .imge {
+        position: relative;
+        width: 25px;
+        height: 25px;
+    }
+
+    .line {
+        height: 20px;
+    }
+
+    .s1 {
+        gap: 5px;
+
+        width: 77%;
+    }
+
+    .text .p4 {
+        font-size: 8.5px;
+    }
+
+    .comander {
+        margin-left: 0%;
+        width: 100%;
+        height: 34px;
+        font-size: 9.5px;
+        border-radius: 9px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 6 @@@  ============================================================================ */
+
+
+@media (min-width:650px) and (max-width:779.99px) {
+
+
+    .container-logo{
+        font-size:33px;
+    }
+
+    .logo {
+        width: 45px;
+        height: 45px;
+    }
+
+    header {
+        margin-left: 3px;
+        margin-top: 30px;
+        height: 950px;
+    }
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        width: 79.5%;
+    }
+
+    .point {
+        font-size: 60px;
+
+    }
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+    }
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 90%;
+        height: 70px;
+    }
+
+    .container2 section {
+        width: 80%;
+        height: 70px;
+    }
+
+    .sahm {
+        width: 90px;
+        height: 100px;
+        margin-left:5%;
+        top: -36px;
+
+    }
+
+    .container2 .p2 {
+        font-size: 40px;
+    }
+
+    .container2 .p3 {
+        font-size: 30px;
+        margin-left: 35%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+
+    .container4 {
+        width: 98%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .text .p4 {
+        font-size: 11px;
+    }
+
+
+    .s1{
+        margin-left: 2%;
+    }
+ 
+
+    .s2 {
+
+        text-align: center;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 7 @@@  ============================================================================ */
+
+
+@media (min-width:570px) and (max-width:649.99px) {
+
+
+    .container-logo{
+        font-size:30px;
+    }
+
+    .logo {
+        width: 45px;
+        height: 45px;
+    }
+
+    header {
+
+        margin-left: 3px;
+        margin-top: 30px;
+        height: 850px;
+    }
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        width: 80%;
+    }
+
+    .container1 .p1 {
+        font-size: 47px;
+    }
+
+    .point{
+        font-size: 58px;
+    }
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        width: 470px;
+        height: 480px;
+    }
+
+    .container5 img {
+        width: 250px;
+        height: 250px;
+
+    }
+
+    /*================================ Container 2  ================================ */
+
+
+    .container2 {
+        width: 90%;
+        height: 60px;
+    }
+
+    .container2 section {
+        width: 80%;
+        height: 60px;
+    }
+
+    .sahm {
+        width: 85px;
+        height: 95px;
+        margin-left:6%;
+        top: -36px;
+
+    }
+
+    .container2 .p2 {
+        font-size: 35px;
+    }
+
+    .container2 .p3 {
+        font-size: 25px;
+        margin-left: 35%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+
+    .container4 {
+        width: 98%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .text .p4 {
+        font-size: 10.5px;
+    }
+
+    .s1 {
+
+        width: 58%;
+        margin-left: 2%;
+    }
+
+    .s2 {
+
+        text-align: center;
+        width: 42%;
+    }
+
+    .comander {
+
+        width: 90%;
+        font-size: 14px;
+        border-radius: 13px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 8 @@@  ============================================================================ */
+
+
+@media (min-width:500px) and (max-width:569.99px) {
+
+    .container-logo{
+        font-size:28px;
+    }
+
+    .logo {
+        width: 40px;
+        height: 40px;
+    }
+
+
+    header {
+
+        margin-left:3px;
+        margin-top: 30px;
+        height: 800px;
+    }
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        width: 80%;
+    }
+
+    .container1 .p1 {
+        font-size: 40px;
+    }
+
+    .point {
+        font-size: 52px;
+    }
+
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        width: 440px;
+        height: 450px;
+    }
+
+    .container5 img {
+        width: 240px;
+        height: 240px;
+
+    }
+
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 90%;
+        height: 60px;
+    }
+
+    .container2 section {
+        width: 80%;
+        height: 60px;
+    }
+
+    .sahm {
+
+        width: 75px;
+        height: 85px;
+        margin-left:7.5%;
+        top: -35px;
+    }
+
+    .container2 .p2 {
+        font-size: 31px;
+    }
+
+    .container2 .p3 {
+        font-size: 21px;
+        margin-left: 37%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+    .container4 {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 5px;
+    }
+
+    .text .p4 {
+        font-size: 9.5px;
+    }
+
+    .comander {
+
+        width: 100%;
+        font-size: 13px;
+        height: 40px;
+        border-radius: 12px;
+        margin-left: 0%;
+    }
+
+
+    .s1 {
+        gap: 8px;
+        width: 58%;
+        margin-left: 2%;
+    }
+
+    .s2 {
+        width: 42%;
+    }
+
+    .imge {
+        position: relative;
+        width: 30px;
+        height: 30px;
+    }
+
+    .line {
+        height: 25px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 9 @@@  ============================================================================ */
+
+
+@media (min-width:400px) and (max-width:499.99px) {
+
+    .container-logo{ 
+ font-size: 25px;
+    }
+ 
+
+    .logo {
+        width: 35px;
+        height: 35px;
+    }
+
+    
+    header {
+        margin-left: 3px;
+        margin-top: 30px;
+        height: 750px;
+    }
+
+
+    /*================================ Container 1  ================================ */
+    
+    .container1 {
+        width: 81.5%;
+        left: 40px;
+    }
+
+    .container1 .p1 {
+        font-size: 35px;
+    }
+
+    .point {
+        font-size: 41px;
+    }
+
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        width: 385px;
+        height: 395px;
+    }
+
+    .container5 img {
+        width: 210px;
+        height: 210px;
+
+    }
+
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 90%;
+        height: 60px;
+    }
+
+    .container2 section {
+        width: 80%;
+        height: 60px;
+    }
+
+
+    .sahm {
+
+        width: 70px;
+        height: 80px;
+        margin-left:6.5%;
+        top: -35px;
+    }
+
+    .container2 .p2 {
+        font-size: 23px;
+    }
+
+    .container2 .p3 {
+        font-size: 16px;
+        margin-left: 36.5%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+    .container4 {
+        width: 98%;
+        margin-top: 0px;
+        gap: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+
+
+    .s1 {
+        gap: 8px;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .s2{
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    .comander {
+         width: 80%; 
+        font-size: 17px; 
+        border-radius: 16px; 
+        margin-left: 0%; 
+        margin-top: 10px;
+
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 10 @@@  ============================================================================ */
+
+@media (min-width:380px) and (max-width:399.99px) {
+
+    .container-logo{
+        font-size:22px;
+    }
+
+    .logo {
+        width: 28px;
+        height: 28px;
+    }
+
+    header {
+
+        margin-left: 3px;
+        margin-top: 30px;
+        height: 600px;
+    }
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        width: 82%;
+        left: 30px;
+    }
+
+    .container1 .p1 {
+        font-size: 28px;   
+    }
+    
+
+
+    .point {
+        font-size: 32px;
+    }
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        width: 315px;
+        height: 325px;
+    }
+
+    .container5 img {
+        width: 180px;
+        height: 180px;
+
+    }
+
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 90%;
+        height: 60px;
+    }
+
+    .container2 section {
+        width: 80%;
+        height: 60px;
+    }
+
+    .sahm {
+        width: 65px;
+        height: 75px;
+        margin-left:4.5%;
+        top: -35px;
+    }
+
+
+    .container2 .p2 {
+        font-size: 22px;
+    }
+
+    .container2 .p3 {
+        font-size: 15px;
+        margin-left: 36%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+    .container4 {
+        width: 98%;
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 10px ;
+        display: block;
+    
+    }
+
+
+    .s1 {
+        gap: 8px;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .s2 {
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    .text .p4 {
+        font-size: 10.5px;
+    }
+
+
+    .imge {
+        position: relative;
+        width: 30px;
+        height: 30px;
+    }
+
+    .line {
+        height: 25px;
+    }
+
+
+
+    .comander {
+         width: 80%; 
+        font-size: 15px; 
+        height: 40px;
+        border-radius: 14px;
+        margin-left: 0%; 
+        margin-top: 10px;
+
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 11.2 @@@  ============================================================================ */
+
+
+@media (min-width:300px) and (max-width:379.99px) {
+
+    .container-logo{
+        font-size:22px;
+    }
+
+    .logo {
+        width: 28px;
+        height: 28px;
+    }
+
+    header {
+
+        margin-left: 3px;
+        margin-top: 30px;
+        height: 600px;
+    }
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        width: 82%;
+        left: 30px;
+    }
+
+    .container1 .p1 {
+        font-size: 26px;   
+    }
+    
+
+
+    .point{
+        font-size: 30px;
+    }
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        width: 285px;
+        height: 295px;
+    }
+
+    .container5 img {
+        width: 170px;
+        height: 170px;
+
+    }
+
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 97%;
+        height: 60px;
+    }
+
+    .container2 section {
+        width: 90%;
+        height: 60px;
+        margin-left: -20px;
+    }
+
+    .sahm {
+        width: 65px;
+        height: 75px;
+        margin-left:5%;
+        top: -35px;
+    }
+
+    .container2 .p2 {
+        font-size: 20px;
+    }
+
+    .container2 .p3 {
+        font-size: 14px;
+        margin-left: 34%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+    .container4 {
+        width: 97%;
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 10px;
+        display: block;
+    }
+
+
+    .s1 {
+        gap: 8px;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .s2 {
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    .text .p4 {
+        font-size: 10px;
+    }
+
+
+    .imge {
+        position: relative;
+        width: 30px;
+        height: 30px;
+    }
+
+    .line {
+        height: 25px;
+    }
+
+
+
+    .comander {
+         width: 80%; 
+        font-size: 15px; 
+        height: 40px;
+        border-radius: 14px;
+        margin-left: 0%; 
+        margin-top: 10px;
+
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*============================================================================  @@@ MEDIA 12 @@@  ============================================================================ */
+
+
+@media (min-width:261px) and (max-width:299.99px) {
+
+    .container-logo{
+        font-size:17px;
+    }
+
+    .logo {
+        width: 23px;
+        height: 23px;
+    }
+
+    header {
+
+        margin-left: 3px;
+        margin-top: 20px;
+    }
+
+    /*================================ Container 1  ================================ */
+    .container1 {
+        width: 85%;
+        left: 30px;
+    }
+
+    .container1 .p1 {
+        font-size: 23px;
+    }
+
+    .point{
+        font-size: 30px;
+    }
+
+
+
+    /*================================ Container 5  ================================ */
+
+    .container5 {
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        width: 245px;
+        height: 255px;
+    }
+
+    .container5 img {
+        width: 160px;
+        height: 160px;
+
+    }
+
+
+    /*================================ Container 2  ================================ */
+
+    .container2 {
+        width: 98%;
+        height: 60px;
+        margin-top: 20px;
+    }
+
+    .container2 section {
+        width: 80%;
+        height: 60px;
+        margin-left: -12px;
+    }
+
+    .sahm {
+        width: 45px;
+        height: 55px;
+        margin-left: 7%;
+        top: -24px;
+    }
+
+
+
+    .container2 .p2 {
+        font-size: 17px;
+    }
+
+    .container2 .p3 {
+        font-size: 12px;
+        margin-left: 35%;
+    }
+
+
+    /*================================ Container 4  ================================ */
+    .container4 {
+        width: 95%;
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 10px;
+        display: block;
+    }
+
+
+    .s1 {
+        gap: 3px;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .s2 {
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    .text .p4 {
+        font-size: 8.5px;
+    }
+
+
+    .imge {
+        position: relative;
+        width: 23px;
+        height: 23px;
+    }
+
+    .line {
+        height: 20px;
+    }
+
+
+
+    .comander {
+         width: 80%; 
+        font-size: 13px; 
+        height: 38px;
+        border-radius: 12px;
+        margin-left: 0%; 
+        margin-top: 10px;
+    }
+
+}

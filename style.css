@@ -1,0 +1,420 @@
+@import url("http://fonts.cdnfonts.com/css/neometric-2");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Neometric Alt", sans-serif;
+}
+
+
+.lesinfo {
+  text-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+.lesinfo p {
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.lesinfo .p1 {
+  letter-spacing: 3px;
+}
+
+.lesinfo .p2 {
+  margin-top: 30px;
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+
+.lesinfo .p3 {
+  margin-top: 90px;
+}
+
+.wrapper {
+  margin: 10px auto;
+  padding: 0 10%;
+  padding-bottom: 10px;
+  text-transform: capitalize;
+}
+
+.conatiner {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.b1 {
+  background-image: url("../images/hygiène.svg");
+}
+
+.b2 {
+  background-image: url("../images/halal.svg");
+}
+
+.b3 {
+  background-image: url("../images/no\ alcohol\ no\ tobacco.svg");
+}
+
+.b4 {
+  background-image: url(" ../images/medical\ bonus.svg");
+}
+
+.b5 {
+  background-image: url("../images/avant\ minuit.svg");
+}
+
+.b6 {
+  background-image: url("../images/+20€.svg");
+}
+
+.conatiner .box {
+  height: 300px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.lesinfo {
+  margin-top: 100px; 
+}
+
+.wrapper {
+  margin-top: 30px;
+}
+
+footer {
+  /* min-height: 100vh; */
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f2f2;
+}
+
+.title {
+  display: flex;
+}
+
+.title img {
+  width: 450px;
+  margin: 20px auto;
+}
+
+#pate h2 {
+  width: 60px;
+}
+
+#pate .card p {
+  font-size: 28px;
+  line-height: 35px;
+}
+
+.burgers {
+  background-image: url("images/hamburger-with-french-fries-on-the-table\ 2.png");
+}
+
+.wraps {
+  background-image: url("images/burritos-wraps-with-minced-beef-and-vegetables-on-wooden-surface\ 2.png");
+}
+
+.pate {
+  background-image: url("images/pasta\ 1.png");
+}
+
+.slide-container {
+  margin-top: 90px;
+  width: 90%;
+  /* height: 500px; */
+  height: 540px;
+  background-size: cover;
+  background-position: center center;
+  box-shadow: inset 0px 0px 100px #000000;
+  border-radius: 50px;
+  border-color: #f2f2f2;
+}
+
+.slide-content {
+  margin: 0 auto;
+  /* overflow: hidden; */
+  border-radius: 25px;
+  width: 90%;
+  padding: 40px;
+}
+
+.card {
+  border-radius: 25px;
+  background-color: #fff;
+  height: 370px;
+  text-align: center;
+  align-items: center;
+  background-image: url("../images/photo1.jpg");
+  background-size: cover;
+  background-position: center center;
+  color: white;
+  opacity: 0.85;
+}
+
+.titre {
+  width: 300px;
+  height: 80px;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  background-color: #f2f2f2;
+  border: none;
+  box-shadow: 0px 0px 100px #000000;
+}
+
+.titre h3 {
+  font-size: 58px;
+  color: #38342f;
+}
+
+.card h1 {
+  margin-top: 40px;
+  font-size: 300%;
+}
+
+.card p {
+  font-size: 25px;
+  line-height: 40px;
+}
+
+.card .prix {
+  margin: 5% auto;
+  width: 70px;
+  height: 40px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  border-radius: 40px;
+  /* border: red 2px solid ; */
+}
+
+.card .prix h2 {
+  color: #000000;
+  margin: 0 auto;
+}
+
+.swiper-navBtn::before,
+.swiper-navBtn::after {
+  font-size: 35px;
+}
+
+.ingredients {
+  margin: 30px auto;
+  width: 85%;
+  height: 150px;
+  display: flex;
+  align-items: center;
+
+}
+
+
+.swiper-button-next {
+  color: black;
+}
+
+.swiper-button-prev {
+  color: wheat;
+}
+
+
+
+
+/* @media (min-width:280px) and (max-width:345px) {
+
+} */
+
+
+
+
+
+
+@media (min-width:520px) and (max-width:600px) {
+
+
+  .ingredients{
+  width: 98%;
+}
+.card .ingredients p{
+  line-height:37px;
+  font-size: 24px;
+}
+
+
+
+}
+
+@media screen and (max-width: 768px) {
+  .slide-content {
+    margin: 0 10px;
+  }
+
+  .swiper-navBtn {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 952px) {
+  .conatiner .box {
+    margin: 0px;
+  }
+
+  .lesinfo p {
+    font-size: 17px;
+    font-weight: 900;
+  }
+
+  .lesinfo .p2 {
+    font-size: 35px;
+  }
+
+  .lesinfo .p3 {
+    font-size: 19px;
+    font-weight: 900;
+    letter-spacing: 2.5px;
+  }
+
+  .slide-container {
+    margin-top: 50px;
+  }
+
+  .title img {
+    width: 200px;
+    margin: 20px auto;
+  }
+
+  .swiper-wrapper {
+    margin-top: 20px;
+  }
+
+  .slide-container {
+    border-radius: 40px;
+  }
+
+  .card h1 {
+    margin-top: 40px;
+    font-size: 180%;
+  }
+
+  .titre {
+    width: 170px;
+    height: 50px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+
+  .titre h3 {
+    font-size: 35px;
+  }
+
+  #pate .ingredients {
+    margin: 50px auto;
+  }
+
+  .card p {
+    font-size: 25px;
+  }
+
+  #pate .card p {
+    font-size: 22px;
+    line-height: 23px;
+  }
+
+  #pate .prix {
+    margin: -20px auto;
+  }
+
+  
+  @media (max-width: 770px){
+    .wrapper {
+      padding: 20px;
+    }
+  }
+}
+
+
+@media screen and (min-width: 953px)and (max-width:1366px) {
+ 
+  .slide-container {
+    margin-top: 50px;
+  }
+
+  #pate .prix {
+    margin: -20px auto;
+  }
+
+  #pate .ingredients {
+    margin: 50px auto;
+  }
+
+  .card p {
+    font-size: 24px;
+  }
+
+  #pate .card p {
+    font-size: 23px;
+    line-height: 30px;
+  }
+
+  .card p {
+    font-size: 24px;
+  }
+
+  .card h1 {
+    margin-top: 40px;
+    font-size: 180%;
+  }
+
+  /* .ingredients {
+    width: 90%;
+    height: 130px;
+  }
+
+  .ingredients p{ 
+    font-size: 20px;
+  }
+  .card h1 {
+    margin-top: 40px;
+    font-size: 200%;
+  } */
+
+}
+
+@media screen and (max-width:578px) {
+
+  .slash{
+    display: none;
+  }
+
+  .lesinfo .p2{
+  font-size: 37px;
+  }
+
+}
+
+@media (min-width:280px) and (max-width:345px) {
+  .card .ingredients p{
+    line-height:33px;
+    font-size: 22px;
+  }
+
+  .pate .card h1{
+font-size: 23px;
+  }
+
+
+  .pate .slide-content #pate .card p {
+    font-size: 17px;
+    line-height:22px;
+    width: 100%;
+  }
+
+  .lesinfo .p2{
+    font-size: 30px;
+    }
+  }
